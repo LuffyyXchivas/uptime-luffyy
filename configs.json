@@ -1,0 +1,8 @@
+{
+"bot":{
+"token": "OTM1MTMyNDk3NTYwMzcxMjEy.Ye6MAQ.NEWLgVEOV5Cqk_oF9ycBc4a70eQ", 
+"prefix": "!",
+"developer": "779005712113467392", 
+"mongooseConnectLink": "mongodb+srv://egei5241:ege_5241@cluster0.efsvl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
+}
